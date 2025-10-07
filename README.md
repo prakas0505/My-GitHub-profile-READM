@@ -9,7 +9,7 @@
 
 ## 🌍 About Me
 I started programming in **2018**, focusing on Python and GIS applications.  
-Since then, I’ve applied geospatial analysis, GNSS research, and remote sensing to forestry, wildfire risk, and environmental challenges.
+Since then,I’ve applied geospatial analysis,Data analysis and GNSS research,along with remote sensing to forestry, wildfire risk, and environmental challenges.
 
 - 🔭 **Research & Applications**: GNSS accuracy, soil moisture–windthrow risk, wildfire sensor networks  
 - 📊 **Technical Skills**: Python, R, QGIS, ArcGIS, SNAP, statistical modeling, data visualization  
