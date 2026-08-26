@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Prakash Gautam</h1>
+<h1 align="center">👋 Hi, I’m Prakash </h1>
 
 <p align="center">
   <b>GIS & Remote Sensing Analyst</b> | Programming since 2018 <br>
