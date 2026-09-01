@@ -133,10 +133,6 @@ n <- 31
 mean_1900 <- data_1900[, mean(data_1900$T_min), by= (seq(nrow(data_1900)) - 1) %/% n]
 plot(mean_1900)
 mean_1900 <- data_1900[,(mean1878 = mean(T_min[startsWith("1878") = Date]))]
-# install.packages("tidyverse")
-library(tidyverse)
-mean_1900 <- data_1900 %>% filter(str_detect(Date, "^1878"))
 
-data_2000$Date <- as.Date(data_2000$Date) # dates are not clear for algorithm, hence no easy way to answer the task...
 
 
