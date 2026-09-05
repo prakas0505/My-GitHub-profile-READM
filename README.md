@@ -43,7 +43,7 @@ Since then,I’ve applied geospatial analysis,Data analysis and GNSS research,al
 
 ### 🔹 2023–2024: Professional Internships & Projects
 - **Dryad GmbH**: Wildfire sensor research → [Repo Placeholder]  
-- **5micron GmbH**: Soil humidity monitoring → [Repo Placeholder]  
+- **5micron GmbH**: Soil moisture non contact humidity monitoring → [Repo Placeholder]  
 - **M.Sc. Thesis**: GNSS positioning accuracy → [Repo Placeholder]  
 
 ### 🔹 2025: Portfolio & Open Projects
